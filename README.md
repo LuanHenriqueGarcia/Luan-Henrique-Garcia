@@ -4,13 +4,9 @@
 _Meu nome e Luan Garcia_
 
 
--Estou cursando o 1º do ensino medio
-
--Estou estundando na  Alura
+-Estou cursando o 2º do ensino medio
 
 -E pretendo ser um grande programador
-
--E meus codigos são feitos na lingagem JavaScript
 
 -Utilizo esse espaço para organisação e divulgação dos meus projetos desenvolvidos
 
